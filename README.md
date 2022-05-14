@@ -7,3 +7,4 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/VedaHarini/M3_Wiper-Control-System-main/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VedaHarini/M3_Wiper-Control-System-main/actions/workflows/c-cpp.yml)
+[![Bulid CI - windows](https://github.com/VedaHarini/M3_Wiper-Control-System-main/actions/workflows/windows.yml/badge.svg)](https://github.com/VedaHarini/M3_Wiper-Control-System-main/actions/workflows/windows.yml)
