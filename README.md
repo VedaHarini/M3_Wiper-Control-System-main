@@ -5,12 +5,12 @@
 ![Codiga Grade](https://api.codiga.io/project/33446/status/svg)
 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9fffa92056b545eea12370978b7986c5)](https://www.codacy.com/gh/VedaHarini/M3_Wiper-Control-System-main/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VedaHarini/M3_Wiper-Control-System-main&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge]()
 
-[![Code Quality - Cppcheck](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/c-cpp.yml)
+[![Code Quality - Cppcheck]()
 
-[![Build_CI - Linux](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Linux.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Linux.yml)
+[![Build_CI - Linux]()
 
-[![Bulid CI - windows](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/windows.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/windows.yml)
+[![Bulid CI - windows]()
 
-[![Git Inspector](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Gitinspector.yml)
+[![Git Inspector]()
